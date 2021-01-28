@@ -167,7 +167,8 @@
 ### Week 14: May 5
 
 - Final project presentations.
+- Assignments:
+  - Finalize your final project based on feedback.
+  - On your blog, document your final project. This sould include sketches, links to code or the project itself, video, inages, etc. Write a description of the process you took to make it. What influenced you? What were you trying to convey with your work? Did you rely on the work of others? be sure to link to those resources and describe how you used them. What would you have done differently if you knew then what you know now? What woudl you do if you had more time to to work on this?
 
 ### Project and Documentation due: May 12
-
-- On your blog, document your work. This sould include sketches, links to code or the project itself, video, inages, etc. Write a description of the process you took to make it. What influenced you? What were you trying to convey with your work? Did you rely on the work of others? be sure to link to those resources and describe how you used them. What would you have done differently if you knew then what you know now? What woudl you do if you had more time to to work on this?

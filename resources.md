@@ -2,6 +2,8 @@
 
 [back to main](index.md)
 
+*This is an ongoing list of resources.*
+
 ### Project Inspiration
 
 - [IDM Spring show 2020 - grad and undergrad work](http://idm.show/categories)

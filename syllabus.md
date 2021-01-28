@@ -8,7 +8,7 @@ None.
 
 ### Course Description
 
-This course is an introductory programming class, appropriate for students with no prior programming experience. Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result. In this course, students are trained to go beyond this sequential thinking – to think concurrently and modularly and ask questions about how computation cxan reflect creative potential. By semster end, students are empowered to write and read code for event-driven, object-oriented, experiences and connect them to the physical world.
+This course is an introductory programming class, appropriate for students with no prior programming experience. Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result. In this course, students are trained to go beyond this sequential thinking – to think concurrently and modularly and ask questions about how computation can reflect creative potential. By semster end, students are empowered to write and read code for event-driven, object-oriented, experiences and connect them to the physical world.
 
 ### Learning Outcomes
 
@@ -52,11 +52,11 @@ We’ll be distributing equipment to you all soon.
 
 There are no required books for class. Readings will be distributed as PDFs. Some relevant titles that you may want to look into include :
 
-- [Generative Design 2nd ed by Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni](http://www.generative-gestaltung.de/2/)
-- [Getting Started with p5js by Lauren McCarthy, Casey Reas, and Ben Fry](https://www.oreilly.com/library/view/make-getting-started/9781457186769/)
-- [Getting Started with Arduino 3rd ed by Massimo Banzi and Michael Shiloh](https://www.oreilly.com/library/view/make-getting-started/9781449363321/)
-- [Interaction of Color by Josef Albers](https://yalebooks.yale.edu/book/9780300179354/interaction-color)
-- [Form+Code by Reas and McWilliams](http://formandcode.com/)
+- [Generative Design](http://www.generative-gestaltung.de/2/) by by Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni
+- [Getting Started with p5js](https://www.oreilly.com/library/view/make-getting-started/9781457186769/) by Lauren McCarthy, Casey Reas, and Ben Fry
+- [Getting Started with Arduino](https://www.oreilly.com/library/view/make-getting-started/9781449363321/) by Massimo Banzi and Michael Shiloh
+- [Interaction of Color](https://yalebooks.yale.edu/book/9780300179354/interaction-color) by Josef Albers
+- [Form+Code](http://formandcode.com/) by Casey Reas and Chandler McWilliams
 
 #### Websites
 
@@ -85,9 +85,9 @@ If you’re more than 5 minutes late for class, you will be considered tardy. Tw
 
 #### Grade breakdown
 
-- Weekly code assignments - 15%
+- Weekly code assignments - 10%
 - Reading responses - 10%
-- Midterm - 20%
+- Midterm - 25%
 - Final - 35%
 - Class participation - 20%
 
@@ -103,7 +103,7 @@ The sooner you start to think about and articulate your ideas for projects, the 
 
 ##### Assignments
 
-Each week you will be asked to write a software sketch (posssibly more than one) and post it online. You must also write a short blog post about the sketch, and react to any readings that are assigned. Blog posts are to be made on an online journal described below. Work is due before the next class meeting. We will spend time during each class going over the homework, so if you don’t understand a concept, its best to write about that, put up what you attempted to code, and we can use that as a starting point for class discussion. Late work will be penalized. Every day work is overdue, it loses a letter grade. If work is turned in more than 4 days late, it receives an F. If you turn nothing in at all, you will receive a 0 for the assignment. Nobody wants that, so be sure to turn your work in on time. Anything is better than nothing.
+Each week you will be asked to create a small project (software sketches or something physical ) and post the link to your work or the documentation of your work online. You must also write a short blog post about the sketch, and react to any readings that are assigned. Blog posts are to be made on an online journal described below. Work is due before the next class meeting. We will spend time during each class going over the assignments, so if you don’t understand a concept, it's best to write about that, put up what you attempted to code, and we can use that as a starting point for class discussion. Late work will be penalized. Every day work is overdue, it loses a letter grade. If work is turned in more than 4 days late, it receives an F. If you turn nothing in at all, you will receive a 0 for the assignment. Nobody wants that, so be sure to turn your work in on time. Anything is better than nothing.
 
 ##### Online Journal
 

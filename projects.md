@@ -2,6 +2,8 @@
 
 [back to main](index.md)
 
+Each week you will be asked to write a software sketch (posssibly more than one) and post it online. You must also write a short blog post about the sketch, and react to any readings that are assigned. Blog posts are to be made on an online journal described below. Work is due before the next class meeting. We will spend time during each class going over the homework, so if you don’t understand a concept, its best to write about that, put up what you attempted to code, and we can use that as a starting point for class discussion. Late work will be penalized. Every day work is overdue, it loses a letter grade. If work is turned in more than 4 days late, it receives an F. If you turn nothing in at all, you will receive a 0 for the assignment. Nobody wants that, so be sure to turn your work in on time. Anything is better than nothing.
+
 ### Week 1: Selfie or Sol
 
 Create one of the following and post a link to the sketch on your website:
