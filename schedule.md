@@ -7,7 +7,7 @@
 ### Week 1: Feb 3
 
 * Review syllabus.
-* Lecture / Discussion Topics: [Notes](classes/week1.md)
+* Lecture / Discussion Topics: [Notes](week1.md)
   * What is "Creative Coding"?
   * What is p5.js?
   * Pixels on a screen - the coordinate system
