@@ -1,6 +1,6 @@
 ## Week 1: What is "Creative Coding"?
 
-[back to main](index.md)
+[back to main](../index.md)
 
 ### What is "Creative Coding"?
 
