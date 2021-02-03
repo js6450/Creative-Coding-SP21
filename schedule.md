@@ -7,16 +7,16 @@
 ### Week 1: Feb 3
 
 * Review syllabus.
-* Lecture / Discussion Topics:
+* Lecture / Discussion Topics: [Notes](classes/week1.md)
   * What is "Creative Coding"?
+  * What is p5.js?
   * Pixels on a screen - the coordinate system
-  * Setting up a local dev environment
-  * p5.js online editor
+  * [p5.js web editor](https://editor.p5js.org/)
   * Drawing with p5.js
   * Brief intro to color
 * Assignments:
-  * Watch vidoes on [variables](link to come) and [conditionals](link to come).
-  * (Optionally) Watch video on [local development](link to come).
+  * Watch vidoe on [variables, conditionals, and bouncing ball](https://www.youtube.com/watch?v=z0gtJp7vpDs).
+  * (Optionally) Watch video on [setting up local p5.js project files](https://www.youtube.com/watch?v=MjzWMOv2AKA).
   * Create an online blog for the class and post the link on the class Slack channel.
   * Create a [Selfie or a Sol Lewitt project](projects.md) and post a link to it on your blog.
   * Read [Delusions of Dialogue: Control and Choice in Interactive Art](https://www.jstor.org/stable/1576847) by Jim Campbell. Access provided online by NYU library. Write a 150 - 200 word response to this on your blog. What do you think of Campbell’s articulation of art in a computer?
