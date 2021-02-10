@@ -18,7 +18,7 @@ Create one of the following and post a link to the sketch on your website:
 
 Create one of the following and post a link to the sketch on your website:
 
-- Make a clock with p5js. Functions like second(), hour() and minute() are useful here! The clock can be [analogous to a real-world clock](https://p5js.org/examples/input-clock.html) or it could be an [abstract way of telling time](https://www.openprocessing.org/sketch/855977)
+- Make a clock with p5js. Functions like [`second()`](https://p5js.org/reference/#/p5/second), [`minute()`](https://p5js.org/reference/#/p5/minute) and [`hour()`](https://p5js.org/reference/#/p5/hour) are useful here! The clock can be [analogous to a real-world clock](https://p5js.org/examples/input-clock.html) or it could be an [abstract way of telling time](https://www.openprocessing.org/sketch/855977)
 - Using your mouse and a simple shape (rect, ellipse, arc, triangle, line, polygon), create an interaction that causes the shape to demonstrate an emotion. It could be fear, attraction, desire, exhaustion. Your choice. Obviously mouseX and mouseY are helpful. Examples like this [easing function](https://p5js.org/examples/input-easing.html) might be inspirational, as would notes from the [12 principles of animation](https://vimeo.com/93206523)
 
 ### Week 3: Dance Party
