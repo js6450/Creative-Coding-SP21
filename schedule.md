@@ -28,7 +28,7 @@
 * Discuss [Delusions of Dialogue: Control and Choice in Interactive Art](https://www.jstor.org/stable/1576847)
 * Review Selfie or a Sol Lewitt project.
 * Q&A time.
-* Lecture / Discussion Topics:
+* Lecture / Discussion Topics: [Notes](classes/week2.md)
   * Animation
   * Time
 * Assignments:
