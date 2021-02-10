@@ -31,9 +31,9 @@
 * Lecture / Discussion Topics: [Notes](classes/week2.md)
   * Animation
   * Time
+  * Grouping & transforming functions
 * Assignments:
-  - Watch videos on [loops](link to come) and [functions](link to come).
-  - (Optionally) Watch video on [translation](link to come).
+  - Watch videos on the [while loop](https://www.youtube.com/watch?v=GpjMorOF3cA&ab_channel=JiwonShin), [for loop](https://www.youtube.com/watch?v=koXsKGhwhWw), [nested for loop](https://www.youtube.com/watch?v=9J17rvOB7G4&ab_channel=JiwonShin), [custom functions](https://www.youtube.com/watch?v=5mg8Ancdrj4&ab_channel=JiwonShin), and [event functions](https://www.youtube.com/watch?v=pXYSVeyIkmA&ab_channel=JiwonShin).
   - Create an [Animation](projects.md) project.
   - Read [p5.js Tutorial on interaction](https://p5js.org/learn/interactivity.html), in particular pay attention to the section on Events. The aspects in the article that describe `mouseOver()` and `mouseOut()` are our of scope for our discussion at the moment, so don’t worry if you don’t entirely get what it’s describing.
   - Read [The Art of Interactive Design Chapter 1](http://proxy.library.nyu.edu/sso/skillport?context=4587). Online access provided by NYU libraries. Write a response to this on your blog - Crawford defines interaction as something that can happen along a continuum, from a simple switch to a deep and engaging conversation. How do you define interaction? Would you consider a book to be interactive? What about a plant you need to care for? How about a puppy? What about your sketches?
