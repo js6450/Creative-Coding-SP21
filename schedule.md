@@ -47,10 +47,10 @@
 
 - Q&A time.
 
-- Lecture / Discussion Topics:
+- Lecture / Discussion Topics: [Notes](classes/week3.md)
   - Object Oriented Programming (OOP)
 - Assignments:
-  - Watch videos on [objects](link to come) and [arrays](link to come).
+  - Watch videos on [passing arguments to object constructor](https://www.youtube.com/watch?v=gbjUy8bape8&ab_channel=JiwonShin), [adding objects when mouse is pressed](https://www.youtube.com/watch?v=npY126CepLc&ab_channel=JiwonShin) and [removing objects](https://www.youtube.com/watch?v=WgaQh7Uk9f0&ab_channel=JiwonShin).
   - Read [Objects of Our Affection : How Object Orientsation Made Computers a Meduim](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=769730&ppg=289) by Casey Alt. Online access provided by NYU libraries. It’s a denser read than the other things we have enagged with so far, so give yourself some extra time. Write a response to Alt’s chapter. He argues that computers became “media” and were no longer just big adding machines when data and interface became rolled into one. With your newfound perspective on what object oriented programming *is* thanks to the videos above, how do you think this changed computation? What does this provide you? How can you see this being useful?
   - (Optionally) Read [Getting Started With p5.js](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=4333728&ppg=173) Chapters 10 & 11. Online access provided by NYU libraries.
   - Create a [Dance Party](projects.md) with objects.
