@@ -5,7 +5,7 @@
 * [Object](https://en.wikipedia.org/wiki/Object_(computer_science)) is an abstract data type, which can include multiple **properties** and **methods**
 * For example, let's think of the cat (the whole animal class) as an example of an object. (image source: [freeCodeCamp](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/))
 
-![Diagram of objects in programming explained using the cat as an example](_img/cat-oop.png)
+![Diagram of objects in programming explained using the cat as an example](/_img/cat-oop.png)
 
 * The Cat object can have properties and methods:
   * Properties:
