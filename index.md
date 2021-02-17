@@ -4,7 +4,7 @@
 * Instructor: Jiwon Shin
 * Instructor Email: jiwon.shin@nyu.edu
 * Class Meeting: Wed 6pm - 8:50pm
-* Office Hours: By appointment
+* Office Hours: [By appointment](https://calendly.com/jiwonshin/office-hours)
 
 ### Links
 
