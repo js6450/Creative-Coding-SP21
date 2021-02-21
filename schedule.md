@@ -60,11 +60,13 @@
 - Discuss  [Objects of Our Affection : How Object Orientsation Made Computers a Meduim](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=769730&ppg=289)
 - Review Dance Party project.
 - Q&A time.
-- Lecture / Discussion Topics:
+- Lecture / Discussion Topics: [Notes](classes/week4.md)
   - Organizing your code into multiple files
   - Pseudocode
+  - Objects talking to objects
+  - Users interacting with Objects
 - Assignments:
-  - Watch videos on [debugging](link to come), [objects talking with other objects](link to come), [more about arrays](link to come). 
+  - Watch videos on [debugging](https://vimeo.com/channels/debugging). 
   - Read [the p5js guide on debugging](https://p5js.org/learn/debugging.html).
   - Create an [Interaction](projects.md) project.
 
