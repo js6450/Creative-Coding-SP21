@@ -27,7 +27,7 @@ Watch [the video for Around the World](https://www.youtube.com/watch?v=LKYPYj2XX
 
 ### Week 4: Interaction
 
-Create a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) *or* create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
+Create a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) *or* create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should be created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
 
 ### Week 5: Data
 
