@@ -74,13 +74,13 @@
 
 - Review Interaction project.
 - Q&A time.
-- Lecture / Discussion Topics:
+- Lecture / Discussion Topics: [Notes](classes/week5.md)
   - Vectors
-  - Recording things
+  - Working with APIs and JSON
 - Discuss midterm
 - Assignments:
-  - Watch the video on [working with APIs and JSON](link to come)
-  - Read [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api) by Jer Thorp and reflect on how you can use data from an API to tell a story or be persuasive.
+  - Watch video on [loading dynamic data with an API](https://youtu.be/Q6IOjn7IvRk).
+  - Read [Turning Data Around](https://medium.com/memo-random/turning-data-around-7acea1f7479c) by Jer Thorp.
   - (Optionally) Read [Getting Started With p5.js](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/make-getting-started/9781457186769/) Chapter 12 on Data. Online access provided by NYU libraries.
   - Create a [Data](projects.md) project
   - Write a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge.
