@@ -35,7 +35,7 @@ Create a sketch that calls an API, processes the data, and visualizes it somehow
 
 ### Week 6: Library
 
-Create a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc.
+Create a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use p5.sound to create an audio visualization, or use p5.scribble to mimic hand drawn images, etc, etc, etc.
 
 ### Midterm
 

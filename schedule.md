@@ -89,12 +89,12 @@
 
 - Review Data project.
 - Q&A time.
-- Lecture / Discussion Topics:
-  - Working with libraries
 - Discuss midterm project proposals.
+- Lecture / Discussion Topics: [Notes](classes/week6.md)
+  - Working with DOM
+  - Working with p5.sound library
+  - Working with p5.scribble library
 - Assignments:
-  - Watch videos on [the DOM](link to come) and [the sound library](link to come).
-  - (Optionally) Watch videos on the [scribble](link to come) and [RiTa](link to come) libraries.
   - Create a [sketch using a JavaScript Library](projects.md).
   - Continue to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do.
 
