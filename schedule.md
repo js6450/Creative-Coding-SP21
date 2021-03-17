@@ -116,7 +116,7 @@
 ### Week 8: Mar 24
 
 - Midterm presentations:
-  - Everyone will have 5 minutes to present their work. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
+  - Everyone will have 10 minutes in total to present their work and for feedback from the class & guest critics. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
 - Assignments:
   - Watch the videos on [your Arduino kit](link to come) and [Electricity and Circuits](link to come).
   - Read these [notes on electricity](link to come).
