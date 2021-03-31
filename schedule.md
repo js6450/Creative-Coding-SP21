@@ -124,51 +124,54 @@
 ### Week 9: Mar 31
 
 - Q&A time.
-- Lecture / Discussion Topics:
+- Lecture / Discussion Topics: [Notes](classes/week9.md)
   - Your Arduino Kit
   - Electricity and Circuits
   - Using a multimeter
   - Switches
 - Assignments:
-  - Watch the videos on [setting up the Arduino IDE](link to come), [what all those pins on your board do](link to come), and [digital input and output](link to come)
-  - Read these [notes on digital input and output](link to come)
+  - Build a [switch](projects.md).
   - Read this article from [Don Norman, Attractive Things Work Better](https://jnd.org/emotion_design_attractive_things_work_better/).
-  - Build a [feedback system](projects.md) for your switch.
+  - Download the [Arduino IDE](https://www.arduino.cc/en/software)
 
 ### Week 10: Apr 7
 
-- Review feedback systems.
+- Review switches.
 - Q&A time.
+- Lecture / Discussion Topics:
+  - Setting up the Arduino IDE
+  - All the pins on your board
+  - Digital input and output
 - Assignments:
-  - Watch videos on [analog input & output](link to come) and [servos and libraries](link to come).
-  - (Optionally) watch video on [building a capacitive touch sensor](link to come)
-  - Read these [notes on analog input & output](link to come).
-  - Build a [love compatibility machine](projects.md).
+  - Build a [feedback system](projects.md) for your switch.
 
 ### Week 11: Apr 14
 
-- Review love machines.
+- Review feedback system.
 - Q&A time.
 - Discuss Final Project
 - Lecture / Discussion Topics:
-  - Serial communication
+  - Analog input & output
+  - servoes and libraries
 - Assignments:
-  - Watch the video on [serial communication](link to come).
-  - (Optionally) Watch the video on [Bluetooth communication](link to come).
-  - Read these [notes on serial commuication](link to come)
-  - Build a [sketch with a physical interface](projects.md).
+  - (Optionally) watch video on [building a capacitive touch sensor](link to come)
+  - Build a [love compatibility machine](projects.md).
   - Write a proposal for your final project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge.
 
 ### Week 12: Apr 21
 
-- Review sketch with a physical interface.
+- Review love machines.
 - Q&A time.
 - Review final project proposals.
+- Lecture / Discussion Topics:
+  - Serial Communication
 - Assignment:
+  - Build a [sketch with a physical interface](projects.md).
   - Start working on your final project. Write up a block diagram or pseudocode of your project. Think about all the materials, libraries or code you will need. Start the implementation of your projects!
 
 ### Week 13: Apr 28
 
+- Review sketch with physical interface
 - Final Project workshop.
 
 ### Week 14: May 5
