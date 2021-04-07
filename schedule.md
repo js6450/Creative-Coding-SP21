@@ -138,7 +138,7 @@
 
 - Review switches.
 - Q&A time.
-- Lecture / Discussion Topics:
+- Lecture / Discussion Topics: [Notes](classes/week10.md)
   - Setting up the Arduino IDE
   - All the pins on your board
   - Digital input and output
