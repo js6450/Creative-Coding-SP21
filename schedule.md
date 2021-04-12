@@ -150,7 +150,7 @@
 - Review feedback system.
 - Q&A time.
 - Discuss Final Project
-- Lecture / Discussion Topics: [Notes](classes/week10.md)
+- Lecture / Discussion Topics: [Notes](classes/week11.md)
   - Analog input & output
   - servoes and libraries
 - Assignments:
