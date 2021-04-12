@@ -150,11 +150,10 @@
 - Review feedback system.
 - Q&A time.
 - Discuss Final Project
-- Lecture / Discussion Topics:
+- Lecture / Discussion Topics: [Notes](classes/week10.md)
   - Analog input & output
   - servoes and libraries
 - Assignments:
-  - (Optionally) watch video on [building a capacitive touch sensor](link to come)
   - Build a [love compatibility machine](projects.md).
   - Write a proposal for your final project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge.
 
