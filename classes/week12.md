@@ -235,3 +235,6 @@ void getSerialData() {
 
 
 
+### Bluetooth connection
+
+* If you are interested in serial communication via bluetooth, checkout [this tutorial](https://itp.nyu.edu/physcomp/labs/lab-bluetooth-le-and-p5-ble/) by Tom Igoe.
