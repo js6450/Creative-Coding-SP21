@@ -162,7 +162,7 @@
 - Review love machines.
 - Q&A time.
 - Review final project proposals.
-- Lecture / Discussion Topics:
+- Lecture / Discussion Topics: [Notes](classes/week12.md)
   - Serial Communication
 - Assignment:
   - Build a [sketch with a physical interface](projects.md).
