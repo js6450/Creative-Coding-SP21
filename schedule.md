@@ -167,11 +167,11 @@
 - Assignment:
   - Build a [sketch with a physical interface](projects.md).
   - Start working on your final project. Write up a block diagram or pseudocode of your project. Think about all the materials, libraries or code you will need. Start the implementation of your projects!
+  - [Book your 1:1 Check-in](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpfelFYbVNHMk1afGRlZmF1bHR8NTRhYmNhM2Y5MmUwMDUyZmRmN2Y1MWIxNTVjN2M5ZDg)
 
 ### Week 13: Apr 28
 
-- Review sketch with physical interface
-- Final Project workshop.
+- 1:1 Check-ins
 
 ### Week 14: May 5
 
